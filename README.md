@@ -153,6 +153,7 @@ Organized deterministic-first, probabilistic-later — matching the analysis abo
 - **[Verified-Agent-Identity](https://github.com/BillionsNetwork/verified-agent-identity)** ![](https://img.shields.io/github/stars/BillionsNetwork/verified-agent-identity?style=flat-square&label=%E2%98%85) — Decentralized identity (DID) for AI agents via iden3 protocol.
 - **[Auth0 for GenAI](https://github.com/auth0/auth-for-genai)** ![](https://img.shields.io/github/stars/auth0/auth-for-genai?style=flat-square&label=%E2%98%85) — Auth framework for AI agents. [Token handling guide](https://auth0.com/blog/third-party-access-tokens-secure-ai-agents/).
 - **[Composio](https://github.com/ComposioHQ/composio)** ![](https://img.shields.io/github/stars/ComposioHQ/composio?style=flat-square&label=%E2%98%85) — 1000+ tool integrations with built-in auth for AI agents. [Security guide](https://composio.dev/blog/secure-ai-agent-infrastructure-guide).
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — On-chain trust scoring for AI agent wallets on Solana. MCP server with free preflight checks (score_agent, preflight_check) and signed trust receipts (x402 paid). Verify agent wallet reputation before authorizing payment flows.
 
 ### Step 4: Harden the Infrastructure · *deterministic*
 
